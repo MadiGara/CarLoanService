@@ -1,8 +1,6 @@
 /* 
  * Madison Gara
- * ID 0973333
  * October 21, 2022
- * CIS*2520 Assignment 2
 */
 
 #include <stdio.h>
